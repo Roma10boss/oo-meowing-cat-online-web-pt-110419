@@ -7,4 +7,6 @@ class Cat
   end 
 end
 cat1= Cat.new ("maru", "meow")
-
+def meow
+  puts meow
+end 
