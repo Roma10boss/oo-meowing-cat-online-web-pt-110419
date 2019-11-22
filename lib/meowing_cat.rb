@@ -6,7 +6,7 @@ class Cat
     @meow = meow 
   end 
 end
-cat1= Cat.new ("maru", "meow")
+cat= Cat.new ("maru", "meow")
 def meow
   puts meow
 end 
